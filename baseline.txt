@@ -1,0 +1,3 @@
+a67206d7a1ad1b3b9a44e9ac33ddf4a17ed489e8fe1a53694ed916168222c187  monitored/file1.txt
+eaa23b989607f5bf6a6aec67f35c8629fcd1da0fe62766d7e0fd28ed7e1bd474  monitored/file2.txt
+722d0ec2615ebfeed595d5648e773f24784514dde24b36d7f884bc1caec78aac  monitored/file3.txt

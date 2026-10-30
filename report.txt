@@ -1,0 +1,30 @@
+=== FIM Check Report | 2026-10-30 06:54:32 ===
+OK: all files match the baseline. No changes detected.
+========================================
+
+=== FIM Check Report | 2026-10-30 06:56:47 ===
+[ADDED]    monitored/newfile.txt
+========================================
+
+=== FIM Check Report | 2026-10-30 06:59:24 ===
+[MODIFIED] monitored/file1.txt
+           expected: a67206d7a1ad1b3b9a44e9ac33ddf4a17ed489e8fe1a53694ed916168222c187
+           found:    acf9a4219830329e3369aaf678b036dac05f81233c3b42b0d2fba575ae92dff3
+[ADDED]    monitored/newfile.txt
+========================================
+
+=== FIM Check Report | 2026-10-30 07:01:54 ===
+[ADDED]    monitored/newfile.txt
+[DELETED]  monitored/file2.txt
+========================================
+
+=== FIM Check Report | 2026-10-30 07:05:03 ===
+[MODIFIED] monitored/file1.txt
+           expected: a67206d7a1ad1b3b9a44e9ac33ddf4a17ed489e8fe1a53694ed916168222c187
+           found:    acf9a4219830329e3369aaf678b036dac05f81233c3b42b0d2fba575ae92dff3
+[ADDED]    monitored/newfile.txt
+[ADDED]    monitored/newfile1.txt
+[DELETED]  monitored/file2.txt
+[DELETED]  monitored/file3.txt
+========================================
+
